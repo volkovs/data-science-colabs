@@ -22,7 +22,7 @@ Please create scrapy project (for further details please look at [scrapy.org](ht
 
 ## Running results example
 
-- [car-links-big.json](TODO)
-- [auto-details-big.json](TODO)
+- [car-links-big.json](https://github.com/volkovs/data-science-colabs/raw/main/05_choosing_auto/scrapper/car-links-big.json.zip)
+- [auto-details-big.json](https://github.com/volkovs/data-science-colabs/raw/main/05_choosing_auto/scrapper/auto-details-big.json.zip)
 
  
