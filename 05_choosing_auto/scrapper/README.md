@@ -17,8 +17,8 @@ Please create scrapy project (for further details please look at [scrapy.org](ht
 
 ## Running example
 
-1. `scrapy crawl auto_spider -O car-links-big.json`
-1. `scrapy crawl auto_details_spider -O auto-details-big.json` - ~8 hours
+1. `scrapy crawl auto -O car-links-big.json`
+1. `scrapy crawl auto-details -O auto-details-big.json` - ~8 hours
 
 ## Running results example
 
